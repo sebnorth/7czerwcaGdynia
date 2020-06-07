@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice", "Tablice\Tablice.csproj", "{CC8CD6E4-656F-450E-972F-C1F1232491BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodajLiczby", "Tablice\DodajLiczby.csproj", "{CC8CD6E4-656F-450E-972F-C1F1232491BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad4", "zad4\zad4.csproj", "{AD1E9722-2D5B-46FB-ADEB-4419552F1914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie6", "Zadanie6\Zadanie6.csproj", "{61821982-4065-4252-90EF-86CA14CBF58E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CC8CD6E4-656F-450E-972F-C1F1232491BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC8CD6E4-656F-450E-972F-C1F1232491BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC8CD6E4-656F-450E-972F-C1F1232491BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1E9722-2D5B-46FB-ADEB-4419552F1914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1E9722-2D5B-46FB-ADEB-4419552F1914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1E9722-2D5B-46FB-ADEB-4419552F1914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1E9722-2D5B-46FB-ADEB-4419552F1914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61821982-4065-4252-90EF-86CA14CBF58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61821982-4065-4252-90EF-86CA14CBF58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61821982-4065-4252-90EF-86CA14CBF58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61821982-4065-4252-90EF-86CA14CBF58E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
